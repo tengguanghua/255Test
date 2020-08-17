@@ -1,0 +1,1056 @@
+﻿Log file open, 08/17/20 08:20:03
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.624731
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/epic/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:602][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:605][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.16-22.20.03:605][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.16-22.20.03:606][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-22.20.03:606][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.16-22.20.03:606][  0]LogHAL: Display: Platform has ~ 16 GB [17110896640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.16-22.20.03:606][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.16-22.20.03:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/ue4/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.16-22.20.03:607][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/ue4/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.08.16-22.20.03:607][  0]LogInit: Computer: DESKTOP-84J1H51
+[2020.08.16-22.20.03:607][  0]LogInit: User: aufbpc
+[2020.08.16-22.20.03:607][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.08.16-22.20.03:607][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.16-22.20.03:607][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.16-22.20.03:607][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.16-22.20.03:607][  0]LogMemory: Process Physical Memory: 116.63 MB used, 116.64 MB peak
+[2020.08.16-22.20.03:607][  0]LogMemory: Process Virtual Memory: 106.73 MB used, 106.73 MB peak
+[2020.08.16-22.20.03:607][  0]LogMemory: Physical Memory: 5048.28 MB used,  11269.95 MB free, 16318.22 MB total
+[2020.08.16-22.20.03:607][  0]LogMemory: Virtual Memory: 5194.84 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2020.08.16-22.20.03:611][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.16-22.20.03:636][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.16-22.20.03:637][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.08.16-22.20.03:637][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.08.16-22.20.03:637][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.08.16-22.20.03:755][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.16-22.20.03:774][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.16-22.20.03:774][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.16-22.20.03:895][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.16-22.20.03:895][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.16-22.20.03:895][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.16-22.20.03:895][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.16-22.20.03:952][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.08.16-22.20.03:952][  0]LogD3D11RHI:       11048/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.16-22.20.03:953][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.16-22.20.03:953][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.16-22.20.03:953][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.16-22.20.03:958][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.16-22.20.03:958][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.16-22.20.03:958][  0]LogWindows: EnumDisplayDevices:
+[2020.08.16-22.20.03:958][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2020.08.16-22.20.03:958][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.08.16-22.20.03:958][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.08.16-22.20.03:959][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.08.16-22.20.03:959][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.08.16-22.20.03:959][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2020.08.16-22.20.03:959][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.08.16-22.20.03:959][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.08.16-22.20.03:959][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2020.08.16-22.20.03:990][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.16-22.20.03:991][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.08.16-22.20.03:991][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.16-22.20.03:991][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.16-22.20.04:103][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.08.16-22.20.04:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.16-22.20.04:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.16-22.20.04:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.16-22.20.04:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.16-22.20.04:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.16-22.20.04:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.16-22.20.04:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.16-22.20.04:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.16-22.20.04:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.16-22.20.04:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.16-22.20.04:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.16-22.20.04:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.16-22.20.04:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.16-22.20.04:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.16-22.20.04:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.16-22.20.04:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.16-22.20.04:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.16-22.20.04:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.16-22.20.04:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.16-22.20.04:434][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.16-22.20.04:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.16-22.20.04:481][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../../../ue4/MyProject/Intermediate/Shaders/WorkingDirectory/1204/).
+[2020.08.16-22.20.04:481][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aufbpc/AppData/Local/Temp/UnrealShaderWorkingDir/A19971E840135290CD735E86D08CD052/'.
+[2020.08.16-22.20.04:481][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.16-22.20.04:481][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.16-22.20.04:481][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.16-22.20.05:031][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: Loaded boot cache 0.03s 75MB C:/Users/aufbpc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aufbpc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../ue4/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../ue4/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.16-22.20.05:067][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.16-22.20.05:074][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.16-22.20.05:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.16-22.20.05:074][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.16-22.20.05:075][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aufbpc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.16-22.20.05:075][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.16-22.20.05:075][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.16-22.20.05:111][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.16-22.20.05:111][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.16-22.20.05:128][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2020.08.16-22.20.05:281][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-22.20.05:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.16-22.20.05:361][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.16-22.20.05:361][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.16-22.20.05:361][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.16-22.20.05:361][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.16-22.20.05:372][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2020.08.16-22.20.05:668][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000029609A00380), frame # 0
+[2020.08.16-22.20.05:668][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296099491C0), frame # 0
+[2020.08.16-22.20.05:669][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296099A4A00), frame # 0
+[2020.08.16-22.20.05:698][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.024718 seconds
+[2020.08.16-22.20.05:701][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.16-22.20.05:701][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.16-22.20.05:701][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.16-22.20.05:932][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.16-22.20.05:935][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.16-22.20.06:112][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.154 s
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: 
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1812]
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: Stack: 
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb724f6e69 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb710ac353 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb5f172912 UE4Editor-MyProject-0067.dll!AtankPawn::AtankPawn() [E:\ue4\MyProject\Source\MyProject\tankPawn.cpp:21]
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb90fcc223 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb91278461 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb91255bcf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb911743b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb8be7987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb8be99a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbcb64b433 UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbcb64b70d UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbfdfa92 UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbfe26f5 UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbfdb7ec UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbfdbb5a UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbfee31d UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6fbff145a UE4Editor.exe!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbda487bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf6ce51 ntdll.dll!UnknownFunction []
+[2020.08.16-22.20.06:112][  0]LogOutputDevice: Error: 
+[2020.08.16-22.20.06:157][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.16-22.20.06:759][  0]LogStats:                    SendNewReport -  0.602 s
+[2020.08.16-22.20.06:759][  0]LogStats:             FDebug::EnsureFailed -  0.801 s
+[2020.08.16-22.20.06:792][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.06:793][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.06:795][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.06:797][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.06:802][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.06:975][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.16-22.20.06:990][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.16-22.20.06:990][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.16-22.20.07:024][  0]LogOcInput: OculusInput pre-init called
+[2020.08.16-22.20.07:032][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.16-22.20.07:032][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.16-22.20.07:074][  0]LogEngine: Initializing Engine...
+[2020.08.16-22.20.07:075][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.16-22.20.07:075][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.16-22.20.07:075][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.16-22.20.07:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.16-22.20.07:160][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.16-22.20.07:160][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002960BF23C00), frame # 0
+[2020.08.16-22.20.07:160][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002960BF89940), frame # 0
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.16-22.20.07:201][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.16-22.20.07:201][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.16-22.20.07:201][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.16-22.20.07:211][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.16-22.20.07:211][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.16-22.20.07:235][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.08.16-22.20.07:238][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.16-22.20.07:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.16-22.20.07:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.16-22.20.07:240][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.16-22.20.07:240][  0]LogInit: FAudioDevice initialized.
+[2020.08.16-22.20.07:240][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.16-22.20.07:274][  0]LogDerivedDataCache: Saved boot cache 0.03s 75MB C:/Users/aufbpc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.16-22.20.07:277][  0]LogInit: Texture streaming: Enabled
+[2020.08.16-22.20.07:289][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.16-22.20.07:289][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.16-22.20.07:291][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.16-22.20.07:329][  0]LogInit: Transaction tracking system initialized
+[2020.08.16-22.20.07:344][  0]BlueprintLog: New page: Editor Load
+[2020.08.16-22.20.07:391][  0]LocalizationService: Localization service is disabled
+[2020.08.16-22.20.07:491][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.16-22.20.07:491][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.16-22.20.07:586][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/MyProject/Content/' took 0.00s
+[2020.08.16-22.20.07:748][  0]SourceControl: Source control is disabled
+[2020.08.16-22.20.07:748][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.715
+[2020.08.16-22.20.07:748][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.16-22.20.07:748][  0]LightingResults: New page: Lighting Build
+[2020.08.16-22.20.07:748][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-22.20.07:749][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-22.20.07:749][  0]MapCheck: New page: Map Check
+[2020.08.16-22.20.07:749][  0]LightingResults: New page: Lighting Build
+[2020.08.16-22.20.07:756][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002960BF23C00), frame # 0
+[2020.08.16-22.20.07:756][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002960BF89940), frame # 0
+[2020.08.16-22.20.07:758][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.08.16-22.20.07:802][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.16-22.20.07:802][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296009C4A00), frame # 0
+[2020.08.16-22.20.07:802][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029608E1E5C0), frame # 0
+[2020.08.16-22.20.07:804][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.16-22.20.07:813][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.16-22.20.07:813][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.16-22.20.07:813][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2020.08.16-22.20.07:814][  0]LogFileHelpers: Loading map 'Template_Default' took 0.066
+[2020.08.16-22.20.07:815][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.783
+[2020.08.16-22.20.07:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.20.07:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.20.07:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.20.07:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.20.07:936][  0]LogCollectionManager: Loaded 0 collections in 0.000537 seconds
+[2020.08.16-22.20.07:946][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/MyProject/Saved/Collections/' took 0.00s
+[2020.08.16-22.20.07:946][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/MyProject/Content/Developers/aufbpc/Collections/' took 0.00s
+[2020.08.16-22.20.07:946][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/MyProject/Content/Collections/' took 0.00s
+[2020.08.16-22.20.07:946][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3430 classes and 823 folders.
+[2020.08.16-22.20.07:949][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.16-22.20.07:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.16-22.20.07:993][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.08.16-22.20.08:015][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.16-22.20.08:016][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.16-22.20.08:019][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.16-22.20.08:075][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.08.16-22.20.08:097][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.16-22.20.08:122][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.16-22.20.08:122][  0]LogLoad: (Engine Initialization) Total time: 7.09 seconds
+[2020.08.16-22.20.08:122][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.16-22.20.08:152][  0]LogAssetRegistry: Asset discovery search completed in 3.0249 seconds
+[2020.08.16-22.20.08:155][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.08.16-22.20.08:156][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.16-22.21.21:721][195]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.16-22.21.21:733][195]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/MyProject.tankPawn
+[2020.08.16-22.32.32:618][330]Candidate modules for hot reload:
+[2020.08.16-22.32.32:618][330]  MyProject
+[2020.08.16-22.32.32:618][330]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,7468 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-22.32.32:620][330]Warning: Starting HotReload took  0.1s.
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午6:34:10
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Invalidating makefile for MyProjectEditor (source file removed)
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Reflection code generated for MyProjectEditor in 22.7508369 seconds
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [1/6] MyProject.init.gen.cpp
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [2/6] tankPawn.gen.cpp
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [3/6] tankPawn.cpp
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [4/6] UE4Editor-MyProject-7468.lib
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7468.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7468.exp
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [5/6] UE4Editor-MyProject-7468.dll
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7468.suppressed.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-7468.suppressed.exp
+[2020.08.16-22.34.10:872][405]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Total time in Parallel executor: 70.91 seconds
+[2020.08.16-22.34.10:872][405]CompilerResultsLog: Total execution time: 97.80 seconds
+[2020.08.16-22.34.10:872][405]LogMainFrame: MainFrame: Module compiling took 98.290 seconds
+[2020.08.16-22.34.10:884][405]LogClass: Could not find existing class tankPawn in package /Script/MyProject for HotReload, assuming new class
+[2020.08.16-22.34.10:887][405]LogHotReload: Re-instancing tankPawn after hot-reload.
+[2020.08.16-22.34.10:902][405]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2020.08.16-22.34.10:903][405]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.16-22.34.11:052][405]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 3430 classes and 823 folders.
+[2020.08.16-22.34.11:052][405]Display: HotReload took 98.5s.
+[2020.08.16-22.34.22:270][438]LogEditor: Attempting to add actor of class 'tankPawn' to level at -420.00,-380.00,20.00
+[2020.08.16-22.34.22:949][438]LogEditor: Attempting to add actor of class 'tankPawn' to level at -180.00,-180.00,20.00
+[2020.08.16-22.34.24:296][548]LogSlate: Took 0.014922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.16-22.34.27:715][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.16-22.34.28:458][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-22.34.28:471][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-22.34.28:471][ 17]PIE: New page: PIE session: Untitled_1 (2020年8月17日 下午6:34:28)
+[2020.08.16-22.34.28:474][ 17]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.16-22.34.28:475][ 17]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.16-22.34.28:475][ 17]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.16-22.34.28:477][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002015s)
+[2020.08.16-22.34.28:484][ 17]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.16-22.34.28:485][ 17]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029637BF1400), frame # 7017
+[2020.08.16-22.34.28:485][ 17]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029635B27D80), frame # 7017
+[2020.08.16-22.34.28:485][ 17]LogPlayLevel: PIE: World Init took: (0.007929s)
+[2020.08.16-22.34.28:485][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010027s)
+[2020.08.16-22.34.28:495][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.16-22.34.28:496][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.16-22.34.28:496][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.16-22.34.28:497][ 17]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.16-22.34.28:497][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.16-22.34.28:501][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.16-22.34.28:501][ 17]LogAudioMixer: Display: 1: FrontRight
+[2020.08.16-22.34.28:513][ 17]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.08.16-22.34.28:513][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.16-22.34.28:513][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.16-22.34.28:514][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.16-22.34.28:514][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.16-22.34.28:523][ 17]LogInit: FAudioDevice initialized.
+[2020.08.16-22.34.28:532][ 17]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-22.34.28:542][ 17]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.08.17-08.34.28
+[2020.08.16-22.34.28:552][ 17]LogWorld: Bringing up level for play took: 0.010285
+[2020.08.16-22.34.28:552][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.08.16-22.34.28:591][ 17]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.08.16-22.34.28:592][ 17]PIE: Server logged in
+[2020.08.16-22.34.28:593][ 17]PIE: Play in editor total start time 0.125 seconds.
+[2020.08.16-22.34.31:260][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.34.31:260][327]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.16-22.34.31:261][327]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-22.34.31:261][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-22.34.31:269][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.16-22.34.31:270][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-22.34.31:292][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.34.31:292][327]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029637BF1400), frame # 7327
+[2020.08.16-22.34.31:292][327]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029635B27D80), frame # 7327
+[2020.08.16-22.34.31:293][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.16-22.34.31:332][329]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.08.16-22.34.32:149][427]Cmd: SELECT NONE
+[2020.08.16-22.34.42:124][615]LogEditorViewport: Clicking on Actor (LMB): tankPawn (tankPawn1)
+[2020.08.16-22.35.03:744][  3]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-22.35.03:755][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-22.35.03:755][  3]PIE: New page: PIE session: Untitled_1 (2020年8月17日 下午6:35:03)
+[2020.08.16-22.35.03:780][  3]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.16-22.35.03:782][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2020.08.16-22.35.03:783][  3]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.16-22.35.03:783][  3]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296362A2600), frame # 11003
+[2020.08.16-22.35.03:783][  3]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029677FC7C40), frame # 11003
+[2020.08.16-22.35.03:783][  3]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2020.08.16-22.35.03:783][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002585s)
+[2020.08.16-22.35.03:793][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.16-22.35.03:795][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.16-22.35.03:795][  3]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.16-22.35.03:795][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.16-22.35.03:799][  3]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.16-22.35.03:799][  3]LogAudioMixer: Display: 1: FrontRight
+[2020.08.16-22.35.03:809][  3]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2020.08.16-22.35.03:809][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.16-22.35.03:809][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.16-22.35.03:809][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.16-22.35.03:810][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.16-22.35.03:820][  3]LogInit: FAudioDevice initialized.
+[2020.08.16-22.35.03:827][  3]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-22.35.03:828][  3]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.08.17-08.35.03
+[2020.08.16-22.35.03:828][  3]LogWorld: Bringing up level for play took: 0.000386
+[2020.08.16-22.35.03:828][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.08.16-22.35.03:829][  3]PIE: Server logged in
+[2020.08.16-22.35.03:829][  3]PIE: Play in editor total start time 0.075 seconds.
+[2020.08.16-22.35.09:681][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.35.09:681][697]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.16-22.35.09:681][697]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.16-22.35.09:681][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-22.35.09:686][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.16-22.35.09:687][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.16-22.35.09:695][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.16-22.35.09:707][697]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029677FC7C40), frame # 11697
+[2020.08.16-22.35.09:707][697]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000296362A2600), frame # 11697
+[2020.08.16-22.35.09:708][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.08.16-22.35.09:761][700]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.08.16-22.35.46:353][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.08.16-22.35.46:354][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../ue4/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.16-22.35.46:440][434]LogSavePackage: Moving '../../../../../../ue4/MyProject/Saved/Untitled_1_Auto101C17DA3439FA2A9AF4DC8BAD8B6585E.tmp' to '../../../../../../ue4/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.08.16-22.35.46:499][434]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.155
+[2020.08.16-22.35.46:499][434]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2020.08.16-22.45.09:472][862]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.16-22.45.09:472][862]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.16-22.45.09:495][862]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.16-22.45.12:777][241]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.16-22.45.20:011][ 86]Candidate modules for hot reload:
+[2020.08.16-22.45.20:011][ 86]  MyProject
+[2020.08.16-22.45.20:011][ 86]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,4940 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午6:45:27
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Invalidating makefile for MyProjectEditor (source file added)
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.2582551 seconds
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [1/6] MyProject.init.gen.cpp
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [2/6] Cuntdown.cpp
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [3/6] Cuntdown.gen.cpp
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [4/6] UE4Editor-MyProject-4940.lib
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4940.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4940.exp
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [5/6] UE4Editor-MyProject-4940.dll
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4940.suppressed.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-4940.suppressed.exp
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Total time in Parallel executor: 1.86 seconds
+[2020.08.16-22.45.27:586][ 86]CompilerResultsLog: Total execution time: 7.51 seconds
+[2020.08.16-22.45.27:586][ 86]LogMainFrame: MainFrame: Module compiling took 7.576 seconds
+[2020.08.16-22.45.27:600][ 86]LogClass: Could not find existing class Cuntdown in package /Script/MyProject for HotReload, assuming new class
+[2020.08.16-22.45.27:604][ 86]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.08.16-22.45.27:606][ 86]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.16-22.45.27:632][ 86]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3431 classes and 823 folders.
+[2020.08.16-22.45.27:632][ 86]Display: HotReload took  7.6s.
+[2020.08.16-22.45.27:632][ 86]Warning: HotReload operation took  7.6s.
+[2020.08.16-22.45.27:872][ 86]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.16-22.45.27:881][ 86]LogHotReload: New module detected: UE4Editor-MyProject-4940.dll
+[2020.08.16-22.45.27:909][ 87]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.16-22.45.27:972][ 87]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.08.16-22.45.27:973][ 87]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.16-22.45.27:984][ 87]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3431 classes and 823 folders.
+[2020.08.16-22.45.27:986][ 87]Display: HotReload took  0.1s.
+[2020.08.16-22.46.14:273][860]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.16-22.46.14:273][860]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.16-22.46.16:193][ 84]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.16-22.46.21:226][678]Candidate modules for hot reload:
+[2020.08.16-22.46.21:226][678]  MyProject
+[2020.08.16-22.46.21:226][678]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,3388 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午6:46:28
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Invalidating makefile for MyProjectEditor (source file modified)
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.2376711 seconds
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [1/6] MyProject.init.gen.cpp
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [2/6] Countdown.cpp
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [3/6] Countdown.gen.cpp
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [4/6] UE4Editor-MyProject-3388.lib
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3388.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3388.exp
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [5/6] UE4Editor-MyProject-3388.dll
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:     ???ڴ????? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3388.suppressed.lib ?Ͷ??? E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3388.suppressed.exp
+[2020.08.16-22.46.28:047][678]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Total time in Parallel executor: 1.08 seconds
+[2020.08.16-22.46.28:047][678]CompilerResultsLog: Total execution time: 6.75 seconds
+[2020.08.16-22.46.28:047][678]LogMainFrame: MainFrame: Module compiling took 6.824 seconds
+[2020.08.16-22.46.28:060][678]LogClass: Could not find existing class Countdown in package /Script/MyProject for HotReload, assuming new class
+[2020.08.16-22.46.28:064][678]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.08.16-22.46.28:065][678]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.16-22.46.28:087][678]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3432 classes and 823 folders.
+[2020.08.16-22.46.28:087][678]Display: HotReload took  6.9s.
+[2020.08.16-22.46.28:087][678]Warning: HotReload operation took  6.9s.
+[2020.08.16-22.46.28:291][678]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.16-22.46.28:295][678]LogHotReload: New module detected: UE4Editor-MyProject-3388.dll
+[2020.08.16-22.46.28:322][679]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.16-22.46.28:385][679]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.08.16-22.46.28:386][679]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.16-22.46.28:399][679]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3432 classes and 823 folders.
+[2020.08.16-22.46.28:402][679]Display: HotReload took  0.1s.
+[2020.08.16-22.57.20:334][ 25]Candidate modules for hot reload:
+[2020.08.16-22.57.20:334][ 25]  MyProject
+[2020.08.16-22.57.20:334][ 25]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,3888 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-22.57.20:336][ 25]Warning: Starting HotReload took  0.0s.
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午6:57:26
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-22.57.26:027][680]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.3163706 seconds
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-22.57.26:027][680]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-22.57.26:027][680]CompilerResultsLog:   [1/5] Countdown.gen.cpp
+[2020.08.16-22.57.26:027][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-22.57.26:027][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-22.57.26:027][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-22.57.26:028][680]CompilerResultsLog:   [2/5] Countdown.cpp
+[2020.08.16-22.57.26:028][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-22.57.26:028][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-22.57.26:028][680]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-22.57.26:028][680]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-22.57.26:028][680]LogMainFrame: MainFrame: Module compiling took 5.695 seconds
+[2020.08.16-22.57.26:028][680]Warning: HotReload failed, recompile failed
+[2020.08.16-22.57.28:373][947]LogSlate: Took 0.055433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.16-22.57.28:433][947]LogSlate: Took 0.009060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.16-22.57.28:454][947]LogSlate: Took 0.004457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2020.08.16-22.57.28:463][947]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '﷨ (U+fde8)'
+[2020.08.16-22.57.28:501][947]LogSlate: Took 0.037508 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.08.16-22.57.52:355][789]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-22.57.52:359][789]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-22.59.10:745][251]Candidate modules for hot reload:
+[2020.08.16-22.59.10:745][251]  MyProject
+[2020.08.16-22.59.10:745][251]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,1977 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-22.59.10:747][251]Warning: Starting HotReload took  0.0s.
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午6:59:15
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.3881031 seconds
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-22.59.15:916][843]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:   [1/5] Countdown.cpp
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:   [2/5] Countdown.gen.cpp
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-22.59.15:916][843]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-22.59.15:916][843]LogMainFrame: MainFrame: Module compiling took 5.174 seconds
+[2020.08.16-22.59.15:916][843]Warning: HotReload failed, recompile failed
+[2020.08.16-23.00.34:509][730]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.00.34:514][730]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.00.35:222][809]Candidate modules for hot reload:
+[2020.08.16-23.00.35:222][809]  MyProject
+[2020.08.16-23.00.35:222][809]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,8417 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-23.00.35:224][809]Warning: Starting HotReload took  0.0s.
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午7:00:40
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.3596021 seconds
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-23.00.40:851][455]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:   [1/5] Countdown.gen.cpp
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(37) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(37) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(37) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:   [2/5] Countdown.cpp
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(37) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(37) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(37) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.00.40:851][455]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-23.00.40:851][455]LogMainFrame: MainFrame: Module compiling took 5.632 seconds
+[2020.08.16-23.00.40:851][455]Warning: HotReload failed, recompile failed
+[2020.08.16-23.01.15:983][ 24]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.01.16:005][ 24]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.51.35:996][499]Candidate modules for hot reload:
+[2020.08.16-23.51.35:996][499]  MyProject
+[2020.08.16-23.51.35:996][499]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,6229 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-23.51.35:998][499]Warning: Starting HotReload took  0.0s.
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午7:51:41
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.2469943 seconds
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:   [1/5] Countdown.cpp
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:   [2/5] Countdown.gen.cpp
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.51.41:015][ 73]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-23.51.41:015][ 73]LogMainFrame: MainFrame: Module compiling took 5.022 seconds
+[2020.08.16-23.51.41:015][ 73]Warning: HotReload failed, recompile failed
+[2020.08.16-23.51.51:658][691]Candidate modules for hot reload:
+[2020.08.16-23.51.51:658][691]  MyProject
+[2020.08.16-23.51.51:658][691]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,3347 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-23.51.51:659][691]Warning: Starting HotReload took  0.5s.
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午7:51:57
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-23.51.57:014][332]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.301936 seconds
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-23.51.57:014][332]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-23.51.57:014][332]CompilerResultsLog:   [1/5] Countdown.cpp
+[2020.08.16-23.51.57:014][332]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-23.51.57:014][332]CompilerResultsLog:   [2/5] Countdown.gen.cpp
+[2020.08.16-23.51.57:014][332]LogMainFrame: MainFrame: Module compiling took 5.359 seconds
+[2020.08.16-23.51.57:014][332]Warning: HotReload failed, recompile failed
+[2020.08.16-23.52.12:859][912]Candidate modules for hot reload:
+[2020.08.16-23.52.12:859][912]  MyProject
+[2020.08.16-23.52.12:859][912]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,2329 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.16-23.52.12:860][912]Warning: Starting HotReload took  0.0s.
+[2020.08.16-23.52.13:818][ 13]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.52.13:823][ 13]LogSlate: Window 'Message Log' being destroyed
+[2020.08.16-23.52.17:871][500]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午7:52:17
+[2020.08.16-23.52.17:871][500]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.16-23.52.17:871][500]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.16-23.52.17:871][500]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.250411 seconds
+[2020.08.16-23.52.17:871][500]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.16-23.52.17:871][500]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.16-23.52.17:872][500]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:   [1/5] Countdown.cpp
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:   [2/5] Countdown.gen.cpp
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.16-23.52.17:872][500]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(35) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.16-23.52.17:872][500]LogMainFrame: MainFrame: Module compiling took 5.016 seconds
+[2020.08.16-23.52.17:872][500]Warning: HotReload failed, recompile failed
+[2020.08.17-00.14.01:283][109]LogSlate: Window 'Message Log' being destroyed
+[2020.08.17-00.14.01:287][109]LogSlate: Window 'Message Log' being destroyed
+[2020.08.17-00.14.02:526][256]Candidate modules for hot reload:
+[2020.08.17-00.14.02:526][256]  MyProject
+[2020.08.17-00.14.02:526][256]Launching UnrealBuildTool... [E:/epic/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,2248 MyProjectEditor Win64 Development -Project="E:/ue4/MyProject/MyProject.uproject" "E:/ue4/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2020.08.17-00.14.02:621][256]Warning: Starting HotReload took  0.1s.
+[2020.08.17-00.14.21:152][709]CompilerResultsLog: New page: Compilation - 2020年8月17日 下午8:14:21
+[2020.08.17-00.14.21:152][709]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:   Running UnrealHeaderTool "E:\ue4\MyProject\MyProject.uproject" "E:\ue4\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\aufbpc\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.17-00.14.21:153][709]CompilerResultsLog: Reflection code generated for MyProjectEditor in 16.0814312 seconds
+[2020.08.17-00.14.21:153][709]CompilerResultsLog: Building MyProjectEditor...
+[2020.08.17-00.14.21:153][709]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (E:\visual studio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.17-00.14.21:153][709]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:   [1/5] Countdown.cpp
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject\Countdown.h(27) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:   E:\ue4\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Countdown.generated.h(12): fatal error C1189: #error:  "Countdown.generated.h already included, missing '#pragma once' in Countdown.h"
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:   [2/5] Countdown.gen.cpp
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C2143: ?﷨????: ȱ?١?;??(?ڡ?*????ǰ??)
+[2020.08.17-00.14.21:153][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C4430: ȱ??????˵???? - ?ٶ?Ϊ int??ע??: C++ ??֧??Ĭ?? int
+[2020.08.17-00.14.21:154][709]CompilerResultsLog:    E:\ue4\MyProject\Source\MyProject/Countdown.h(27) : error C2238: ?????ı???λ?ڡ?;??֮ǰ
+[2020.08.17-00.14.21:154][709]LogMainFrame: MainFrame: Module compiling took 18.631 seconds
+[2020.08.17-00.14.21:154][709]Warning: HotReload failed, recompile failed

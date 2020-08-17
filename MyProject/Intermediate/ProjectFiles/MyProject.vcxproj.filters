@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1CB2F749-2799-48BF-966A-F6BC49F78DE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A1F2AFA9-57EC-4EC4-B598-2C9E837CC0EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject">
+      <UniqueIdentifier>{30555453-6433-4315-81D8-FC26DBAEE5E6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject\MyPawnMovementComponent.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MyPawnMovementComponent.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject\MyProject.Build.cs">
+      <Filter>Source\MyProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject\MyProject.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MyProject.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\MyProjectGameModeBase.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MyProjectGameModeBase.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\tankPawn.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\tankPawn.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyProject\TankPawnMovementComponent.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject\Cuntdown.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject\Countdown.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyProject\TankPawnMovementComponent.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject\Cuntdown.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject\Countdown.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
